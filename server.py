@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-# 导入库
 import socket, threading, os,commands
 
 SIZE = 2048
